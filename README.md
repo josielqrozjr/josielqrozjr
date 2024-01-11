@@ -1,6 +1,5 @@
 <h1 align="center">Olá! Eu sou o Queiroz JR. 👋</h1>
 
-- 🧑🏽‍💻 Estagiário de Suporte TI;
 - 📚 Acadêmico de Ciência da Computação;
 - 😄 Pronome: ele/dele.
 
