@@ -2,7 +2,7 @@
 
 - 📚 Acadêmico de Ciência da Computação;
 - 😄 Pronome: ele/dele.
-- 🔗 Linkedin: https://www.linkedin.com/in/josielqrozjr/
+- 🔗 Linkedin: [Perfil | Josiel Queiroz JR](https://www.linkedin.com/in/josielqrozjr/)
 
 <div>
   <a href="https://github.com/josielqrozjr">
